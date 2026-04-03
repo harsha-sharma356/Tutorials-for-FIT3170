@@ -1,9 +1,9 @@
 import { describe, test, expect } from 'vitest';
-import { add } from '../../app/src/App';
+import App  from '../../app/src/App';
 
 
 describe('add function', () => {
   test('adds two numbers correctly', () => {
-    expect(add(2, 3)).toBe(5);
+    expect(App()).toBe(5);
   });
 });
