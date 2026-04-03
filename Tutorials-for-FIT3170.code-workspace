@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Tutorials-for-FIT3170",
+			"path": "."
+		},
+		{
+			"name": "Tutorial 0",
+			"path": "../tutorials/Tutorial 0"
+		},
+		{
+			"name": "Tutorial 1",
+			"path": "../tutorials/Tutorial 1"
+		},
+		{
+			"name": "Tutorial 2",
+			"path": "../tutorials/Tutorial 2"
+		},
+		{
+			"name": "Tutorial 3",
+			"path": "../tutorials/Tutorial 3"
+		}
+	],
+	"settings": {}
+}
